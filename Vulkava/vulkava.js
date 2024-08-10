@@ -8,7 +8,7 @@ module.exports = (client) => {
         id: 'Node 1',
         hostname: '0.0.0.0',
         port: 2333,
-        password: 'SpacyOMlehor2525'
+        password: ''
       }
     ],
     sendWS: (guildId, payload) => {
